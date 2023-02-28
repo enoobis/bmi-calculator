@@ -1,7 +1,7 @@
 # bmi-calculator
 simple BMI calculator that calculates your Body Mass Index based on your height and weight.
 
-RUN ONLINE :[RUN](https://replit.com/@Enoobis/bmi-calculator)
+RUN ONLINE : [RUN](https://replit.com/@Enoobis/bmi-calculator)
 
 ![image](https://user-images.githubusercontent.com/62465404/221747848-efd2debc-98ba-486f-b3f7-9601875d23f9.png)
 
